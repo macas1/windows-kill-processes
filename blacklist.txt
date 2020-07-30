@@ -1,0 +1,15 @@
+chrome
+armsvc.exe
+applicationframehost
+ctfmon.exe
+video.UI.exe
+SettingSyncHost.exe
+OfficeClickToRun.exe
+TextInput.Input.App.exe
+YourPhone.exe
+WUFDHost.exe
+TabTip.exe
+TeamViewer
+tv_w32.exe
+tv_x64.exe
+RuntimeBroker.exe
